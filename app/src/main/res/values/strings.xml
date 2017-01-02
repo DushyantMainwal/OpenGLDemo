@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OpenGLDemo</string>
+    <string-array name="spinner_array">
+        <item>None</item>
+        <item>AutoFix</item>
+        <item>Black/White</item>
+        <item>Brightness</item>
+        <item>Contrast</item>
+        <item>CrossProcess</item>
+        <item>Documentary</item>
+        <item>DuoTone</item>
+        <item>FillLight</item>
+        <item>FishEye</item>
+        <item>Flip Vertical</item>
+        <item>Flip Horizontal</item>
+        <item>Grain</item>
+        <item>GrayScale</item>
+        <item>Lomoish</item>
+        <item>Negative</item>
+        <item>Posterize</item>
+        <item>Rotate</item>
+        <item>Saturate</item>
+        <item>Sepia</item>
+        <item>Sharpen</item>
+        <item>Temperature</item>
+        <item>Tint</item>
+        <item>Vignette</item>
+    </string-array>
+
+</resources>
