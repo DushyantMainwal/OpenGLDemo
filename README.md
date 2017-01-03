@@ -1,4 +1,4 @@
 # OpenGLDemo
 Image Rendering using openGL
 
-OpenGL Demo with detailed description
+Basic demo for openGL with detailed description
